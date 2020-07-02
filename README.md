@@ -1,6 +1,9 @@
 # README_generator   
 ### This project uses node.js to prompt the user for information pertaining to a software project, that then gerates a standardized README for that project.
 
+![Application Gif](https://media.giphy.com/media/W36aSvshhgEKuI1QKZ/giphy.gif)
+
+
 # Table of Contents
 * [Primary Technology](#tecnology)
 * [Installation](#installation)
@@ -9,7 +12,6 @@
 * [Licensing](#licensing)
 
 
-![Application Gif](https://media.giphy.com/media/W36aSvshhgEKuI1QKZ/giphy.gif)
 
 
 ### [Primary Technology](#technology)
