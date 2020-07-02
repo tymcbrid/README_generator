@@ -8,6 +8,10 @@
 * [Contributing](#contributing)
 * [Licensing](#licensing)
 
+
+![Application Gif](https://media.giphy.com/media/W36aSvshhgEKuI1QKZ/giphy.gif)
+
+
 ### [Primary Technology](#technology)
 * Node.js
 ### [Installation](#installation)

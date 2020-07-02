@@ -98,16 +98,13 @@ inquirer.prompt([
 
                     const mdFile = dedent(`
                     
-                        [![](https://img.shields.io/apm/MIT)](https://${username}.github.io/${projectname}/.)
-                        [![](https://img.shields.io/github/pipenv/locked/python-version/${username}/${projectname}?style=plastic)](https://${username}.github.io/${projectname}/.)
-                        [![](https://img.shields.io/visual-studio-app-center/releases/size/${username}/${projectname}/null)](https://${username}.github.io/${projectname}/.)
                         
                         
                         # ${projectname}   
                         ### ${projectdescription}
                         
                         # Table of Contents
-                        * [Primary Technology](#tecnology)
+                        * [Primary Technology](#technology)
                         * [Installation](#installation)
                         * [Usage](#usage)
                         * [Contributing](#contributing)
@@ -141,3 +138,8 @@ inquirer.prompt([
 // ### ${repoNameStr}__
 // ### ${repoUrlStr}__
 // ### ${repoDescriptionStr}__
+
+
+// [![](https://img.shields.io/apm/MIT)](https://${username}.github.io/${projectname}/.)
+// [![](https://img.shields.io/github/pipenv/locked/python-version/${username}/${projectname}?style=plastic)](https://${username}.github.io/${projectname}/.)
+// [![](https://img.shields.io/visual-studio-app-center/releases/size/${username}/${projectname}/null)](https://${username}.github.io/${projectname}/.)
